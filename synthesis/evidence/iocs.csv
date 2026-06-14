@@ -1,0 +1,10 @@
+Type,Value,Confidence,Reason
+IP,188.95.248.71,High,Suspicious HTTP communication
+Domain,acjabogados.com,High,Downloaded 40group.tiff
+Domain,corposted.com,Medium,Suspicious DNS query
+Domain,magnwnce.com,Medium,Suspicious DNS query
+Domain,amongolia.com,Medium,Suspicious DNS query
+Domain,presifered.com,Medium,Suspicious DNS query
+Domain,coujtried.com,Medium,Suspicious DNS query
+Domain,jjanuatu.com,Medium,Suspicious DNS query
+URI,/40group.tiff,High,Suspicious downloaded resource
